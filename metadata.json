@@ -1,0 +1,7 @@
+{
+  "name": "Reviewy — Placas NFC para Avaliações no Google | Rio de Janeiro",
+  "description": "Transforme clientes satisfeitos em avaliações 5 estrelas no Google, com um toque. Placas NFC sem mensalidade para restaurantes e comércios locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

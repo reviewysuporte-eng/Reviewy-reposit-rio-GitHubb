@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /painel-reviewy-adm
+Disallow: /admin
+Disallow: /admin.html
+Disallow: /c/
+
+Sitemap: https://reviewy.com.br/sitemap.xml
